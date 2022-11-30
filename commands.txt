@@ -5,4 +5,3 @@ git status list-->all untracked files
 git add -A
 git commit -m "message"
 
-git status
